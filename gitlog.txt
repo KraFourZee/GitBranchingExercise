@@ -1,0 +1,61 @@
+* commit 2ee8eb0 (HEAD -> master, origin/master, origin/HEAD, newanimal)
+| Author: KraFourZee <disandrokyle@gmail.com>
+| Date:   6 minutes ago
+| 
+|     There is now a second big cat with tall eyes that it looking at the mouse
+|    
+*   commit ce92f3c
+|\  Merge: f3050ed a395458
+| | Author: KraFourZee <disandrokyle@gmail.com>
+| | Date:   3 days ago
+| | 
+| |     Merge branch 'addmouse'
+| |     this merges because we need a full cat
+| |   
+| * commit a395458
+| | Author: KraFourZee <disandrokyle@gmail.com>
+| | Date:   3 days ago
+| | 
+| |     The Mouse now says 'EEEK'
+| |   
+| * commit ac1a5ab
+| | Author: KraFourZee <disandrokyle@gmail.com>
+| | Date:   3 days ago
+| | 
+| |     Now Mouse has been added, originally untracked
+| |   
+| * commit d3a1d0b
+| | Author: KraFourZee <disandrokyle@gmail.com>
+| | Date:   3 days ago
+| | 
+| |     Mouse added
+| |   
+* | commit f3050ed
+|/  Author: KraFourZee <disandrokyle@gmail.com>
+|   Date:   3 days ago
+|   
+|       Ears have been added to the cat
+|  
+* commit cb78d01
+| Author: KraFourZee <disandrokyle@gmail.com>
+| Date:   3 days ago
+| 
+|     The cat now has a bigger head
+|  
+* commit 0d73daa
+| Author: KraFourZee <disandrokyle@gmail.com>
+| Date:   3 days ago
+| 
+|     The cat now has wiskers
+|  
+* commit 047ff27
+| Author: KraFourZee <disandrokyle@gmail.com>
+| Date:   3 days ago
+| 
+|     Initial Commit
+|  
+* commit 15e5718
+  Author: KraFourZee <disandrokyle@gmail.com>
+  Date:   3 days ago
+  
+      Initial commit
